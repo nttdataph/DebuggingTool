@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Canon.HRM.SAP.Common" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ResultWD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T_WORKDETAILS</Value>
+    </Setting>
+    <Setting Name="ResultPI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T_PERSONALINFO</Value>
+    </Setting>
+    <Setting Name="ResultSD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T_SPOUSEDEPENDENT</Value>
+    </Setting>
+    <Setting Name="ResultIN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T_INSURANCE</Value>
+    </Setting>
+    <Setting Name="ResultED" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T_EDUCATION</Value>
+    </Setting>
+    <Setting Name="ResultEM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T_EMERGENCYCONT</Value>
+    </Setting>
+    <Setting Name="ResultOR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T_ORGCHART</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
